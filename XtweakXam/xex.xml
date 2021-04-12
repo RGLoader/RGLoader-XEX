@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xex>
+<gameregion system=""/>
+     
+<format>
+	<compressed/>
+</format>
+     
+<exportcontainer name="XtweakXam.xex"/>
+     
+<sysdll/>
+     
+<version major="2" minor="0" build="21250" qfe="0"/>
+     
+<mediatypes>
+	<harddisk/>
+</mediatypes>
+     
+<boundpath path="\Device\Harddisk0\Partition1\XtweakXam.xex"/>
+     
+<baseaddr addr="0x91800000"/>
+</xex>
